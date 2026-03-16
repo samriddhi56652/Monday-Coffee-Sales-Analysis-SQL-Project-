@@ -19,16 +19,16 @@ Business Problems Solved
 
 The project answers several real-world business questions:
 
-1️. Coffee Consumer Estimation
+1️. Coffee Consumer Estimation:
 Estimated coffee consumers in each city assuming 25% of the population consumes coffee.
 
-2️. Total Revenue Analysis
+2️. Total Revenue Analysis:
 Calculated total revenue from coffee sales in Q4 2023 across cities.
 
-3️. Product Demand Analysis
+3️. Product Demand Analysis:
 Identified number of units sold per coffee product.
 
-4️. Average Sales per Customer
+4️. Average Sales per Customer:
 Measured average spending per customer in each city.
 
 5️. Market Size vs Current Customers
@@ -36,19 +36,19 @@ Compared:
   Estimated coffee consumers
   Current unique customers
 
-6️. Top Selling Products by City
+6️. Top Selling Products by City:
 Used window functions (DENSE_RANK) to identify top 3 products per city.
 
-7️. Customer Segmentation
+7️. Customer Segmentation:
 Identified unique coffee-buying customers per city.
 
-8️. Sales vs Rent Analysis
+8️. Sales vs Rent Analysis:
 Compared average sales per customer with average rent per customer.
 
-9️. Monthly Sales Growth
+9️. Monthly Sales Growth:
 Calculated month-over-month sales growth using LAG() window function.
 
-10. Market Potential Analysis
+10. Market Potential Analysis:
 Identified top cities for business expansion based on:
 Total revenue
 Rent
